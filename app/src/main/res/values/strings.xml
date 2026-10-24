@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pixel Cam</string>
+    <string name="camera_permission_title">Camera Access Required</string>
+    <string name="camera_permission_description">Pixel Cam needs camera permission to capture photos with HDR+ and Night Sight.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="mode_night_sight">Night Sight</string>
+    <string name="mode_portrait">Portrait</string>
+    <string name="mode_camera">Camera</string>
+    <string name="mode_video">Video</string>
+    <string name="mode_modes">Modes</string>
+    <string name="hdr_plus">HDR+</string>
+    <string name="night_sight">Night Sight</string>
+    <string name="settings_title">Camera Settings</string>
+    <string name="load_config">Load XML Config</string>
+    <string name="active_config">Active Config</string>
+</resources>

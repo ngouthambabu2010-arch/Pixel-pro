@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Cam",
+  "description": "Pixel Camera replica featuring HDR+, Night Sight, swipe-down settings, swipe-up mode drawer, and LMC XML configuration file loader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
